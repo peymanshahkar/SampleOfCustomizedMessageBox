@@ -1,0 +1,12 @@
+E:\Projects\CustomMessageBox\MessageBoxSh\TestMessage\bin\Debug\TestMessage.exe.config
+E:\Projects\CustomMessageBox\MessageBoxSh\TestMessage\bin\Debug\TestMessage.exe
+E:\Projects\CustomMessageBox\MessageBoxSh\TestMessage\bin\Debug\TestMessage.pdb
+E:\Projects\CustomMessageBox\MessageBoxSh\TestMessage\bin\Debug\MessageBoxSh.dll
+E:\Projects\CustomMessageBox\MessageBoxSh\TestMessage\bin\Debug\BehComponents.dll
+E:\Projects\CustomMessageBox\MessageBoxSh\TestMessage\bin\Debug\MessageBoxSh.pdb
+E:\Projects\CustomMessageBox\MessageBoxSh\TestMessage\obj\Debug\TestMessage.csprojResolveAssemblyReference.cache
+E:\Projects\CustomMessageBox\MessageBoxSh\TestMessage\obj\Debug\TestMessage.Form1.resources
+E:\Projects\CustomMessageBox\MessageBoxSh\TestMessage\obj\Debug\TestMessage.Properties.Resources.resources
+E:\Projects\CustomMessageBox\MessageBoxSh\TestMessage\obj\Debug\TestMessage.csproj.GenerateResource.Cache
+E:\Projects\CustomMessageBox\MessageBoxSh\TestMessage\obj\Debug\TestMessage.exe
+E:\Projects\CustomMessageBox\MessageBoxSh\TestMessage\obj\Debug\TestMessage.pdb
